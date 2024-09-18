@@ -1,0 +1,5 @@
+/home/andrew/Documents/AdvEmb/Labs/5785lab2/pioasm-install/pioasm/pioasm
+/home/andrew/Documents/AdvEmb/Labs/5785lab2/pioasm-install/pioasm/pioasmTargets.cmake
+/home/andrew/Documents/AdvEmb/Labs/5785lab2/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/andrew/Documents/AdvEmb/Labs/5785lab2/pioasm-install/pioasm/pioasmConfig.cmake
+/home/andrew/Documents/AdvEmb/Labs/5785lab2/pioasm-install/pioasm/pioasmConfigVersion.cmake
